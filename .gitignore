@@ -241,3 +241,5 @@ dmypy.json
 cython_debug/
 
 /.idea
+
+/util/enviroments.py
