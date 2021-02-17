@@ -14,9 +14,9 @@ joblib = "*"
 threadpoolctl = "*"
 statsmodels = "*"
 pymysql = "*"
-jupyter = "*"
 
 [dev-packages]
+jupyter = "*"
 
 [requires]
 python_version = "3.8"
